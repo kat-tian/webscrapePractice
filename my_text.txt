@@ -1,1 +1,1 @@
-Hi, this is a text file. This is a new line. 
+Hi, this is a text file. This is a new line. Another new branch.
